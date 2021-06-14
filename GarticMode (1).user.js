@@ -1187,13 +1187,13 @@ function VIP(){
             arr[i].parentNode.title="Ноунейм";
             arr[i].parentNode.style.backgroundColor="rgb(0 0 0)";
             arr[i].parentNode.getElementsByClassName("avatar")[0].style.border="0px solid brown";
-            arr[i].parentNode.style.border="3px solid #c7945a";
-            arr[i].style.color="#824700";
+            arr[i].parentNode.style.border="3px solid #000000";
+            arr[i].style.color="#ffffff";
             arr[i].style.fontSize="x-large";
             arr[i].style.fontFamily='Bold';
             arr[i].style.fontStyle="italic";
             arr[i].parentNode.style.backgroundImage="url(https://media.discordapp.net/attachments/785888608497696778/854033065247637524/c48f5846b55f5819.png)";
-            arr[i].parentNode.style.backgroundSize="130%";
+            arr[i].parentNode.style.backgroundSize="100%";
             arr[i].parentNode.style.backgroundPosition="-35px -40px";
             arr[i].parentNode.style.backgroundRepeat="no-repeat";
             arr[i].parentNode.style.transition="none";
